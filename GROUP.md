@@ -1,9 +1,21 @@
 GROUP_NAME: Share_space
+
+
 MEMEBERS:
+
+
 MWESIGWA JOSHUA PRECIOUS           S25B13/001
+
+
 NSUBUGA EDRINE                     S25B13/057
+
+
 AJIET CHARLES PATRICK.             S26B13/121
+
+
 KYEBAMBE TIMOTHY                   S25B13/128
+
+
 
 PROJECT DESCRIPTION:
 ShareSpace Hostel Borrowing Club
