@@ -10,7 +10,7 @@ MWESIGWA JOSHUA PRECIOUS           S25B13/001 https://github.com/mwesigwajoshuap
 NSUBUGA EDRINE                     S25B13/057 "https://github.com/mwesigwajoshuaprecious/Share_Space/pull/5"
 
 
-AJIET CHARLES PATRICK.             S26B13/121
+AJIET CHARLES PATRICK.             S26B13/121   https://github.com/mwesigwajoshuaprecious/Share_Space/pull/7
 
 
 KYEBAMBE TIMOTHY                   S25B13/128 "https://github.com/mwesigwajoshuaprecious/Share_Space/pull/6"
